@@ -1,0 +1,10 @@
+<!-- JOSE ARMANDO OLMOS RESENDIZ -->
+
+<resources>
+    <string name="app_name">Programa04</string>
+    <string name="botonec" >Estados y Capitales</string>
+    <string name="creditos" >Creditos</string>
+    <string name="creador" >Luis Hernandez</string>
+    <string name="btnregresar" >Regresar</string>
+    <string name="tituloec" >Estados/Capitales</string>
+</resources>
